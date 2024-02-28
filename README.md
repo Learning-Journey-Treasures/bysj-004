@@ -1,5 +1,8 @@
  **[点我查看详情并获取源码](http://blog.cyrobot.top/blog/article/161)💕🤞** 
 
+ **郑重声明：项目经过本地测试，确保可以运行。项目仅供学习和毕业设计参考~** 
+
+
 1.项目介绍
 
 技术栈+环境：SSM + MySQL5.7及以上 + Maven + Tomcat8
