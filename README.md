@@ -24,3 +24,9 @@
 管理员账号密码： 111111@qq.com/admin
 
 用户账号密码：133333333@qq.com/123456 或者自行注册
+![1](https://github.com/user-attachments/assets/d5894a30-a70c-43f7-ac33-458da916b6f3)
+![2](https://github.com/user-attachments/assets/7769d1d1-39f0-4f76-b8ee-8b914c0a79d8)
+![3](https://github.com/user-attachments/assets/91fb30c0-8401-4b16-aa98-06fd7cb5cea4)
+![4](https://github.com/user-attachments/assets/45e403f5-1ff8-4e24-95ee-b3fadf92c8e2)
+![5](https://github.com/user-attachments/assets/168e0be7-53dd-426e-8198-54036299544f)
+![6](https://github.com/user-attachments/assets/b5629639-50ee-49eb-8f48-d613f5835ded)
